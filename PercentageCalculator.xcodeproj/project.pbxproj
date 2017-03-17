@@ -151,6 +151,7 @@
 					};
 					22325BC71C62395E006879FF = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = BB59JFKRY2;
 						LastSwiftMigration = 0820;
 						TestTargetID = 22325BB31C62395E006879FF;
 					};
@@ -354,6 +355,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = BB59JFKRY2;
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
@@ -367,6 +369,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				DEVELOPMENT_TEAM = BB59JFKRY2;
 				INFOPLIST_FILE = PercentageCalculatorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.appcoda.PercentageCalculatorTests;
