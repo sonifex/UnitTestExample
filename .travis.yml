@@ -1,6 +1,6 @@
 language: objective-c
 xcode_project: PercentageCalculator.xcodeproj
-xcode_scheme: PercentageCalculatorTest
+xcode_scheme: PercentageCalculator
 
 script:
-- xcodebuild clean build test -project PercentageCalculator.xcodeproj -scheme PercentageCalculatorTests
+- xcodebuild clean build test -project PercentageCalculator.xcodeproj -scheme PercentageCalculator
