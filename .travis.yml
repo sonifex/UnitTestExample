@@ -1,5 +1,5 @@
 osx_image: xcode8
-language: objective-c
+language: swift
 
 xcode_project: PercentageCalculator.xcodeproj
 xcode_scheme: PercentageCalculator
