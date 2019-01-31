@@ -36,7 +36,7 @@ class PercentageCalculatorTests: XCTestCase {
         
         XCTAssert(vc.numberLabel.text == "80.0","numberLabel doesn't show the right text")
         XCTAssert(vc.percentageLabel.text == "50.0%","percentageLabel doesn't show the right text")
-        XCTAssert(vc.resultLabel.text == "40.0","resultLabel doesn't show the right text")
+        XCTAssert(vc.resultLabel.text == "50.0","resultLabel doesn't show the right text")
     }
     
 }
